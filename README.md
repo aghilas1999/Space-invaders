@@ -22,7 +22,7 @@ Current state of the project (05/12/2022) :
 Group Members :
 <ul>
 <li>
-ZIDANI FAHED IMED 
+AGHILAS SMAIL 
 </li>
 <li>
 ADDOUCHE WALID 
@@ -31,12 +31,6 @@ ADDOUCHE WALID
 RIAZI IBRAHIM 
 </li>
 <li>
-AGHILAS ISMAIL 
-</li>
-<li>
-LEO RANGHEARD
-</li>
-<li>
-ELIE NICOLAS
+ZIDANI FAHED IMED 
 </li>
 </ul>
